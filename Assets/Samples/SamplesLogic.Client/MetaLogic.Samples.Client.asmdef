@@ -1,0 +1,18 @@
+{
+    "name": "MetaLogic.Samples.Client",
+    "references": [
+        "GUID:a18207b8201716b4db085a281d47ac05",
+        "GUID:479a0346ad8a3074babbf706700fbfad",
+        "GUID:96c48481a406c6e4aa1b4f2112a5dc5c",
+        "GUID:9927aaba9ba8384418eedb4cbf4fd77a"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

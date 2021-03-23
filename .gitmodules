@@ -1,0 +1,15 @@
+[submodule "Packages/vetsengine.common"]
+	path = Packages/vetsengine.common
+	url = https://github.com/Vetsaiz/vetsengine.common.git
+[submodule "Packages/vetsengine.counters"]
+	path = Packages/vetsengine.counters
+	url = https://github.com/Vetsaiz/vetsengine.counters.git
+[submodule "Packages/vetsengine.sandbox"]
+	path = Packages/vetsengine.sandbox
+	url = https://github.com/Vetsaiz/vetsengine.sandbox.git
+[submodule "Packages/vetsengine.initialization"]
+	path = Packages/vetsengine.initialization
+	url = https://github.com/Vetsaiz/vetsengine.initialization.git
+[submodule "Packages/vetsengine.turnbasedlogic"]
+	path = Packages/vetsengine.turnbasedlogic
+	url = https://github.com/Vetsaiz/vetsengine.turnbasedlogic.git

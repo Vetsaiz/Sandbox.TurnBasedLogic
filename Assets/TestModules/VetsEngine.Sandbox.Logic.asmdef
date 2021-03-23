@@ -1,0 +1,19 @@
+{
+    "name": "Sandbox.Logic",
+    "references": [
+        "GUID:dda6dfbf09629034890f3d6e3faf5241",
+        "GUID:9927aaba9ba8384418eedb4cbf4fd77a",
+        "GUID:a18207b8201716b4db085a281d47ac05"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "JsonFx.Json.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

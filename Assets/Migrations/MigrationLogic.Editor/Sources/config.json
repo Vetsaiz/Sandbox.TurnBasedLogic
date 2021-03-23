@@ -1,0 +1,17 @@
+{
+	"NamespaceData": "Migrations.Data",
+	"NamespaceLogic": "Migrations.Logic",
+	"NamespacePublic": "MetaLogic.Migrations",
+
+	"SourcePath": "_MetaLogic\\Scripts\\Migrations\\MigrationLogic\\Sources",
+	"GeneratePath": "_MetaLogic\\Scripts\\Migrations\\MigrationLogic\\Generated",
+	
+	"IgnoreClasses": ["IMigrationsExternalAPI"],
+	"Directories": [],
+	
+	"IsBuildClient": "true",
+	"IsBuildServer": "true",
+
+	"IsServerState": true,
+	"ServerAPI": "IMigrationsExternalAPI"
+}

@@ -1,0 +1,18 @@
+{
+	"NamespaceData": "MetaLogic.TestData",
+	"NamespaceLogic": "MetaLogic.TestLogic",
+	"NamespacePublic": "MetaLogic.Test",
+
+	"SourcePath": "_MetaLogic\\Scripts\\Sample\\TestLogic\\Sources",
+	"GeneratePath": "_MetaLogic\\Scripts\\Sample\\TestLogic\\Generated",
+	
+	"IgnoreClasses": ["ITestExternalAPI"],
+	"Directories": [],
+	
+	"IsBuildClient": "true",
+	"IsBuildServer": "true",
+
+	"IsEmulateState": false,
+	"IsServerState": true,
+	"ServerAPI": "ITestExternalAPI"
+}

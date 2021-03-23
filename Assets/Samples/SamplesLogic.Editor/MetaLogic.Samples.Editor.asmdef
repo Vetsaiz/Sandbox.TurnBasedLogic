@@ -1,0 +1,19 @@
+{
+    "name": "MetaLogic.Samples.Editor",
+    "references": [
+        "GUID:a18207b8201716b4db085a281d47ac05",
+        "GUID:b06fbb6e18ccd18499951aeddc315fc3",
+        "GUID:479a0346ad8a3074babbf706700fbfad"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
