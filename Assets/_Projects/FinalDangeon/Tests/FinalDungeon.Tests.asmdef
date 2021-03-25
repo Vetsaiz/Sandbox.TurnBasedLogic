@@ -1,0 +1,17 @@
+{
+    "name": "FinalDungeon.Tests",
+    "references": [
+        "GUID:dda6dfbf09629034890f3d6e3faf5241",
+        "GUID:9927aaba9ba8384418eedb4cbf4fd77a",
+        "GUID:25e58014b0a8b714e83c4c44d86f66ae"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

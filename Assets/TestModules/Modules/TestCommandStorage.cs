@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using MetaLogic.Contracts;
+using VetsEngine.MetaLogic.Contracts;
 
 namespace MetaTests.Client.Core
 {
@@ -14,6 +14,7 @@ namespace MetaTests.Client.Core
         }
 
         private List<CommandData> _commands = new List<CommandData>();
+        private long _now;
 
         public string GetBatches()
         {
@@ -36,11 +37,41 @@ namespace MetaTests.Client.Core
         {
         }
 
+        long ICommandStorage.Now
+        {
+            get { return _now; }
+        }
+
         public float Now => DateTime.Now.ToFileTimeUtc();
 
         public void ClearBatches()
         {
             _commands.Clear();
+        }
+
+        public T GetStatic<T>() where T : class
+        {
+            throw new NotImplementedException();
+        }
+
+        public IReadOnlyDictionary<string, T> GetTests<T>() where T : class
+        {
+            throw new NotImplementedException();
+        }
+
+        public T GetState<T>() where T : class
+        {
+            throw new NotImplementedException();
+        }
+
+        public T GetServerState<T>() where T : class
+        {
+            throw new NotImplementedException();
+        }
+
+        public void SaveState<T1, T2>(T1 clientState, T2 serverState) where T1 : class where T2 : class
+        {
+            throw new NotImplementedException();
         }
     }
 }

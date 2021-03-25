@@ -1,8 +1,8 @@
 ﻿using System;
-using MetaLogic.Contracts;
 using MetaTests.Client.Views;
 using UnityEngine;
 using UnityEngine.UI;
+using VetsEngine.MetaLogic.Contracts;
 
 namespace MetaTests.Client.Core
 {

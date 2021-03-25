@@ -1,6 +1,8 @@
 ﻿using System;
-using MetaLogic.Contracts;
 using Pathfinding.Serialization.JsonFx;
+using VetsEngine.MetaLogic.Contracts;
+
+//using VetsEngine.Common;
 
 namespace MetaTests.Client.Core
 {
